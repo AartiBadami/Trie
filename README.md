@@ -1,5 +1,5 @@
 # Trie
-This project implements a Trie
+This project implements a substring Trie
 
 This repository contains the following:
 
